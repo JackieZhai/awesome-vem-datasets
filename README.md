@@ -29,10 +29,11 @@
 
 ## Acknowledgement
 
-* Seung Lab, Computer Science Department, Princeton Neuroscience Institute
-* Helmstaedter Lab, Department of Connectomics, Max Planck Institute for Brain Research
-* Pfister Lab, Visual Computing Group, School of Engineering and Applied Sciences, Harvard University
-* Funke Lab, Janelia Research Campus, Howard Hughes Medical Institute
+* **Lichtman** Lab, Department of Molecular and Cellular Biology, Center for Brain Science, Harvard University
+* **Seung** Lab, Computer Science Department, Princeton Neuroscience Institute
+* **Helmstaedter** Lab, Department of Connectomics, Max Planck Institute for Brain Research
+* **Pfister** Lab, Visual Computing Group, School of Engineering and Applied Sciences, Harvard University
+* **Funke** Lab, Janelia Research Campus, Howard Hughes Medical Institute
 
 
 ## Contribution
@@ -40,3 +41,5 @@
 * [Hao Zhai](https://github.com/JackieZhai)
 
 Please [**contribute**](https://github.com/JackieZhai/awesome-em-datasets/pulls) if you think a new dataset or a relevant paper is missing.
+
+Let's enjoy the beauty of EM data!
