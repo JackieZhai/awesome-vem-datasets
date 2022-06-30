@@ -5,32 +5,47 @@
 ## Reference
 
 ### 2022
+
+
 ### 2021
 
 * Wei *et al.* [AxonEM Dataset: 3D Axon Instance Segmentation of Brain Cortical Regions](https://doi.org/10.1007/978-3-030-87193-2_17)
 <p align="center"><img src="FIGURE\AxonEM.png" width="512"></p>
 
-* Shapson-Coe *et al.* [A connectomic study of a petascale fragment of human cerebral cortex](https://www.biorxiv.org/content/10.1101/2021.05.29.446289v4)
+* Shapson-Coe *et al.* [A Connectomic Study of a Petascale Fragment of Human Cerebral Cortex](https://www.biorxiv.org/content/10.1101/2021.05.29.446289v4)
 <p align="center"><img src="FIGURE\H01.png" width="512"></p>
 
-* MICrONS Consortium *et al.* [Functional connectomics spanning multiple areas of mouse visual cortex](https://www.biorxiv.org/content/10.1101/2021.07.28.454025v2)
+* MICrONS Consortium *et al.* [Functional Connectomics Spanning Multiple Areas of Mouse Visual Cortex](https://www.biorxiv.org/content/10.1101/2021.07.28.454025v2)
 <p align="center"><img src="FIGURE\MICrONS_Cortical_mm3.png" width="512"></p>
 
 * Lin *et al.* [NucMM Dataset: 3D Neuronal Nuclei Instance Segmentation at Sub-Cubic Millimeter Scale](https://doi.org/10.1007/978-3-030-87193-2_16)
-<p align="center"><img src="FIGURE\AxonEM.png" width="512"></p>
+<p align="center"><img src="FIGURE\NucMM.png" width="512"></p>
 
 
 ### 2020
 
 * Wei *et al.* [MitoEM Dataset: Large-Scale 3D Mitochondria Instance Segmentation from EM Images](https://doi.org/10.1007/978-3-030-59722-1_7)
-<p align="center"><img src="FIGURE\AxonEM.png" width="512"></p>
+<p align="center"><img src="FIGURE\MitoEM.png" width="512"></p>
+
+* Scheffer *et al.* [A connectome and analysis of the adult Drosophila central brain](https://doi.org/10.7554/eLife.57443)
+<p align="center"><img src="FIGURE\HemiBrain.png" width="512"></p>
 
 
 ### 2019
 ### 2018
+
+* Januszewski *et al.* [High-precision automated reconstruction of neurons with flood-filling networks](https://doi.org/10.1038/s41592-018-0049-4)
+<p align="center"><img src="FIGURE\J0126.png" width="512"></p>
+
+
 ### 2017
 ### 2016
 ### 2015
+
+* Takemura *et al.* [Synaptic circuits and their variations within different columns in the visual system of Drosophila](https://doi.org/10.1073/pnas.1509820112)
+<p align="center"><img src="FIGURE\FIB-25.png" width="512"></p>
+
+
 ### 2014
 ### 2013
 
