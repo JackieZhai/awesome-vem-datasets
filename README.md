@@ -9,8 +9,8 @@
 
 <table>
     <tr>
-        <th>Name for Short</th>
-        <th>Animal</th>
+        <th>Name<br>$\textit{for short}$</th>
+        <th>Species</th>
         <th>Sample</th>
         <th>Modality</th>
         <th>Size<br>$\mu m^{3}$</th>
@@ -23,7 +23,7 @@
     <tr>
         <td>AxonEM</td>
         <td>Mouse<br>Human</td>
-        <td></td>
+        <td>layer 2/3 in the primary visual cortex<br>layer 2 in the temporal lobe</td>
         <td>TEM<br>SEM</td>
         <td>$30\times 30\times 30$</td>
         <td>$7\times 7\times 40$<br>$8\times 8\times 30$</td>
