@@ -6,6 +6,9 @@
 
 ### 2022
 
+* Turner *et al.* [Reconstruction of Neocortex: Organelles, Compartments, Cells, Circuits, and Activity](https://doi.org/10.1016/j.cell.2022.01.023)
+<p align="center"><img src="FIGURE\MICrONS_Layer_23.jpg" width="512"></p>
+
 
 ### 2021
 
@@ -44,6 +47,9 @@
 
 * Takemura *et al.* [Synaptic circuits and their variations within different columns in the visual system of Drosophila](https://doi.org/10.1073/pnas.1509820112)
 <p align="center"><img src="FIGURE\FIB-25.png" width="512"></p>
+
+* Kasthuri *et al.* [Saturated Reconstruction of a Volume of Neocortex](https://doi.org/10.1016/j.cell.2015.06.054)
+<p align="center"><img src="FIGURE\Kasthuri.png" width="512"></p>
 
 
 ### 2014
