@@ -13,8 +13,8 @@
         <th>Animal</th>
         <th>Sample</th>
         <th>Modality</th>
-        <th>Physical Size</th>
-        <th>Actual Resolution</th>
+        <th>Size<br>$\mu m^{3}$</th>
+        <th>Resolution<br>$nm^{3}$</th>
         <th>Number</th>
         <th>Link</th>
         <th>Reference</th>
@@ -25,11 +25,11 @@
         <td>Mouse<br>Human</td>
         <td></td>
         <td>TEM<br>SEM</td>
-        <td>$30\times 30\times 30 \mu m^{3}$</td>
-        <td>$7\times 7\times 40 nm^{3}$<br>$8\times 8\times 30 nm^{3}$</td>
+        <td>$30\times 30\times 30$</td>
+        <td>$7\times 7\times 40$<br>$8\times 8\times 30$</td>
         <td>18,000 axons</td>
         <td>n/a</td>
-        <td>Wei *et al.*, <a href="https://github.com/JackieZhai/awesome-em-datasets#2021">2021</a></td>
+        <td>Wei $\textit{et al.}$, <a href="https://github.com/JackieZhai/awesome-em-datasets#2021">2021</a></td>
         <td>two subset of MICrONS and H01</td>
     </tr>
 </table>
@@ -39,38 +39,38 @@
 
 ### 2022
 
-* Turner *et al.* [Reconstruction of Neocortex: Organelles, Compartments, Cells, Circuits, and Activity](https://doi.org/10.1016/j.cell.2022.01.023)
+* Turner $\textit{et al.}$ [Reconstruction of Neocortex: Organelles, Compartments, Cells, Circuits, and Activity](https://doi.org/10.1016/j.cell.2022.01.023)
 <p align="center"><img src="FIGURE\MICrONS_Layer_23.jpg" width="512"></p>
 
 
 ### 2021
 
-* Wei *et al.* [AxonEM Dataset: 3D Axon Instance Segmentation of Brain Cortical Regions](https://doi.org/10.1007/978-3-030-87193-2_17)
+* Wei $\textit{et al.}$ [AxonEM Dataset: 3D Axon Instance Segmentation of Brain Cortical Regions](https://doi.org/10.1007/978-3-030-87193-2_17)
 <p align="center"><img src="FIGURE\AxonEM.png" width="512"></p>
 
-* Shapson-Coe *et al.* [A Connectomic Study of a Petascale Fragment of Human Cerebral Cortex](https://www.biorxiv.org/content/10.1101/2021.05.29.446289v4)
+* Shapson-Coe $\textit{et al.}$ [A Connectomic Study of a Petascale Fragment of Human Cerebral Cortex](https://www.biorxiv.org/content/10.1101/2021.05.29.446289v4)
 <p align="center"><img src="FIGURE\H01.png" width="512"></p>
 
-* MICrONS Consortium *et al.* [Functional Connectomics Spanning Multiple Areas of Mouse Visual Cortex](https://www.biorxiv.org/content/10.1101/2021.07.28.454025v2)
+* MICrONS Consortium $\textit{et al.}$ [Functional Connectomics Spanning Multiple Areas of Mouse Visual Cortex](https://www.biorxiv.org/content/10.1101/2021.07.28.454025v2)
 <p align="center"><img src="FIGURE\MICrONS_Cortical_mm3.png" width="512"></p>
 
-* Lin *et al.* [NucMM Dataset: 3D Neuronal Nuclei Instance Segmentation at Sub-Cubic Millimeter Scale](https://doi.org/10.1007/978-3-030-87193-2_16)
+* Lin $\textit{et al.}$ [NucMM Dataset: 3D Neuronal Nuclei Instance Segmentation at Sub-Cubic Millimeter Scale](https://doi.org/10.1007/978-3-030-87193-2_16)
 <p align="center"><img src="FIGURE\NucMM.png" width="512"></p>
 
 
 ### 2020
 
-* Wei *et al.* [MitoEM Dataset: Large-Scale 3D Mitochondria Instance Segmentation from EM Images](https://doi.org/10.1007/978-3-030-59722-1_7)
+* Wei $\textit{et al.}$ [MitoEM Dataset: Large-Scale 3D Mitochondria Instance Segmentation from EM Images](https://doi.org/10.1007/978-3-030-59722-1_7)
 <p align="center"><img src="FIGURE\MitoEM.png" width="512"></p>
 
-* Scheffer *et al.* [A connectome and analysis of the adult Drosophila central brain](https://doi.org/10.7554/eLife.57443)
+* Scheffer $\textit{et al.}$ [A connectome and analysis of the adult Drosophila central brain](https://doi.org/10.7554/eLife.57443)
 <p align="center"><img src="FIGURE\HemiBrain.png" width="512"></p>
 
 
 ### 2019
 ### 2018
 
-* Januszewski *et al.* [High-precision automated reconstruction of neurons with flood-filling networks](https://doi.org/10.1038/s41592-018-0049-4)
+* Januszewski $\textit{et al.}$ [High-precision automated reconstruction of neurons with flood-filling networks](https://doi.org/10.1038/s41592-018-0049-4)
 <p align="center"><img src="FIGURE\J0126.png" width="512"></p>
 
 
@@ -78,10 +78,10 @@
 ### 2016
 ### 2015
 
-* Takemura *et al.* [Synaptic circuits and their variations within different columns in the visual system of Drosophila](https://doi.org/10.1073/pnas.1509820112)
+* Takemura $\textit{et al.}$ [Synaptic circuits and their variations within different columns in the visual system of Drosophila](https://doi.org/10.1073/pnas.1509820112)
 <p align="center"><img src="FIGURE\FIB-25.png" width="512"></p>
 
-* Kasthuri *et al.* [Saturated Reconstruction of a Volume of Neocortex](https://doi.org/10.1016/j.cell.2015.06.054)
+* Kasthuri $\textit{et al.}$ [Saturated Reconstruction of a Volume of Neocortex](https://doi.org/10.1016/j.cell.2015.06.054)
 <p align="center"><img src="FIGURE\Kasthuri.png" width="512"></p>
 
 
