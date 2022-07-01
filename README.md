@@ -1,4 +1,4 @@
-# Awesome EM Datasets
+# Awesome EM Datasets [![Awesome](https://awesome.re/badge.svg)](https://github.com/topics/awesome)
 
 ## Overview
 
