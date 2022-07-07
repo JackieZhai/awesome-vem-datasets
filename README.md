@@ -22,15 +22,40 @@
     </tr>
     <tr>
         <td>AxonEM</td>
-        <td>Mouse<br>Human</td>
-        <td>layer 2/3 in the primary visual cortex<br>layer 2 in the temporal lobe</td>
-        <td>TEM<br>SEM</td>
+        <td>mouse<br>human</td>
+        <td>visual cortex<br>temporal lobe</td>
+        <td>ssTEM<br>ATUM-SEM</td>
         <td>$30\times 30\times 30$</td>
         <td>$7\times 7\times 40$<br>$8\times 8\times 30$</td>
         <td>18,000 axons</td>
-        <td>n/a</td>
+        <td><a href="https://axonem.grand-challenge.org/">chall.</a></td>
         <td>Wei $\textit{et al.}$, <a href="https://github.com/JackieZhai/awesome-em-datasets#2021">2021</a></td>
-        <td>two subset of MICrONS and H01</td>
+        <td>subsets of MICrONS and H01</td>
+    </tr>
+    <tr>
+        <td>J0126</td>
+        <td>zebra finch</td>
+        <td>area X</td>
+        <td>SBEM</td>
+        <td>$96\times 98\times 114$</td>
+        <td>$9\times 9\times 20$</td>
+        <td>33 blocks, 12+50 skels</td>
+        <td><a href="https://storage.googleapis.com/j0126-nature-methods-data/GgwKmcKgrcoNxJccKuGIzRnQqfit9hnfK1ctZzNbnuU/rawdata_realigned">c.v.raw</a><br><a href="https://storage.googleapis.com/j0126-nature-methods-data/GgwKmcKgrcoNxJccKuGIzRnQqfit9hnfK1ctZzNbnuU/ffn_segmentation">c.v.seg.</a>
+        </td>
+        <td>Januszewski $\textit{et al.}$, <a href="https://github.com/JackieZhai/awesome-em-datasets#2018">2018</a></td>
+        <td>testing for FFN</td>
+    </tr>
+    <tr>
+        <td>Kasthuri</td>
+        <td>mouse</td>
+        <td>neocortex</td>
+        <td>ATUM-SEM</td>
+        <td>$40\times 40\times 50$</td>
+        <td>$3\times 3\times 30$</td>
+        <td>1,700 synapses</td>
+        <td><a href="https://lichtman.rc.fas.harvard.edu/vast/">vast</a></td>
+        <td>Kasthuri $\textit{et al.}$, <a href="https://github.com/JackieZhai/awesome-em-datasets#2018">2015</a></td>
+        <td>superset of SNEMI</td>
     </tr>
 </table>
 
@@ -96,6 +121,8 @@
 * **Helmstaedter** Lab, Department of Connectomics, Max Planck Institute for Brain Research
 * **Pfister** Lab, Visual Computing Group, School of Engineering and Applied Sciences, Harvard University
 * **Funke** Lab, Janelia Research Campus, Howard Hughes Medical Institute
+
+Social preview background image was taken from [PyGame](https://twitter.com/PyrGame/status/1544863064100683781).
 
 
 ## Contribution
