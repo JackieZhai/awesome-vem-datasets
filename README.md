@@ -10,15 +10,15 @@
 <table>
     <tr>
         <th>Name<br>$\textit{for short}$</th>
-        <th><div style="width:50px">Species</div></th>
-        <th><div style="width:100px">Sample</div></th>
-        <th><div style="width:75px">Modality</div></th>
+        <th>Species</th>
+        <th>&nbsp;&nbsp;&nbsp;&nbsp;Sample&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th>&nbsp;&nbsp;&nbsp;&nbsp;Modality&nbsp;&nbsp;&nbsp;&nbsp;</th>
         <th>Size<br>$\mu m^{3}$</th>
         <th>Resolution<br>$nm^{3}$</th>
-        <th><div style="width:100px">Number</div></th>
+        <th>&nbsp;&nbsp;&nbsp;&nbsp;Number&nbsp;&nbsp;&nbsp;&nbsp;</th>
         <th>Link</th>
-        <th><div style="width:150px">Reference</div></th>
-        <th><div style="width:200px">Note</div></th>
+        <th>&nbsp;&nbsp;&nbsp;&nbsp;Reference&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Note&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
     </tr>
     <tr>
         <td rowspan="2">AxonEM</td>
