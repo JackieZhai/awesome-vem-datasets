@@ -9,16 +9,16 @@
 
 <table>
     <tr>
-        <th style="width: 100px">Name<br>$\textit{for short}$</th>
-        <th>Species</th>
-        <th style="width: 200px">Sample</th>
-        <th>Modality</th>
+        <th>Name<br>$\textit{for short}$</th>
+        <th><div style="width:50px">Species</div></th>
+        <th><div style="width:100px">Sample</div></th>
+        <th><div style="width:75px">Modality</div></th>
         <th>Size<br>$\mu m^{3}$</th>
         <th>Resolution<br>$nm^{3}$</th>
-        <th>Number</th>
+        <th><div style="width:100px">Number</div></th>
         <th>Link</th>
-        <th>Reference</th>
-        <th>Note</th>
+        <th><div style="width:150px">Reference</div></th>
+        <th><div style="width:200px">Note</div></th>
     </tr>
     <tr>
         <td rowspan="2">AxonEM</td>
