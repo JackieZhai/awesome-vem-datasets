@@ -9,9 +9,9 @@
 
 <table>
     <tr>
-        <th>Name<br>$\textit{for short}$</th>
+        <th style="width: 100px">Name<br>$\textit{for short}$</th>
         <th>Species</th>
-        <th>Sample</th>
+        <th style="width: 200px">Sample</th>
         <th>Modality</th>
         <th>Size<br>$\mu m^{3}$</th>
         <th>Resolution<br>$nm^{3}$</th>
@@ -21,16 +21,22 @@
         <th>Note</th>
     </tr>
     <tr>
-        <td>AxonEM</td>
-        <td>mouse<br>human</td>
-        <td>visual cortex<br>temporal lobe</td>
-        <td>ssTEM<br>ATUM-SEM</td>
-        <td>$30\times 30\times 30$</td>
-        <td>$7\times 7\times 40$<br>$8\times 8\times 30$</td>
-        <td>18,000 axons</td>
-        <td><a href="https://axonem.grand-challenge.org/">chall.</a></td>
-        <td>Wei $\textit{et al.}$, <a href="https://github.com/JackieZhai/awesome-em-datasets#2021">2021</a></td>
-        <td>subsets of MICrONS and H01</td>
+        <td rowspan="2">AxonEM</td>
+        <td>mouse</td>
+        <td>visual cortex</td>
+        <td>ssTEM</td>
+        <td rowspan="2">$30\times 30\times 30$</td>
+        <td>$7\times 7\times 40$</td>
+        <td rowspan="2">18,000 axons</td>
+        <td rowspan="2"><a href="https://axonem.grand-challenge.org/">chall.</a></td>
+        <td rowspan="2">Wei $\textit{et al.}$, <a href="https://github.com/JackieZhai/awesome-em-datasets#2021">2021</a></td>
+        <td rowspan="2">subsets of MICrONS and H01</td>
+    </tr>
+    <tr>
+        <td>human</td>
+        <td>temporal lobe</td>
+        <td>ATUM-SEM</td>
+        <td>$8\times 8\times 30$</td>
     </tr>
     <tr>
         <td>J0126</td>
