@@ -12,7 +12,7 @@
         <th>Name<br>$\textit{for short}$</th>
         <th>Species</th>
         <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sample&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-        <th>&nbsp;&nbsp;&nbsp;&nbsp;Modality&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th>&nbsp;&nbsp;&nbsp;&nbsp;Microscopy&nbsp;&nbsp;&nbsp;&nbsp;</th>
         <th>Size<br>$\mu m^{3}$</th>
         <th>Resolution<br>$nm^{3}$</th>
         <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Number&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
@@ -23,30 +23,42 @@
     <tr>
         <td rowspan="2">AxonEM</td>
         <td>mouse</td>
-        <td>visual cortex</td>
+        <td>primary visual cortex</td>
         <td>ssTEM</td>
         <td rowspan="2">$30\times 30\times 30$</td>
         <td>$7\times 7\times 40$</td>
         <td rowspan="2">18,000 axons</td>
-        <td rowspan="2"><a href="https://axonem.grand-challenge.org/">chall.</a></td>
+        <td rowspan="2"><a href="https://axonem.grand-challenge.org/">grand-challenge</a></td>
         <td rowspan="2">Wei $\textit{et al.}$, <a href="https://github.com/JackieZhai/awesome-em-datasets#2021">2021</a></td>
         <td rowspan="2">subsets of MICrONS and H01</td>
     </tr>
     <tr>
         <td>human</td>
-        <td>temporal lobe</td>
-        <td>ATUM-SEM</td>
+        <td>temporal cortex</td>
+        <td>ATUM-mSEM</td>
         <td>$8\times 8\times 30$</td>
     </tr>
     <tr>
+        <td>H01</td>
+        <td>human</td>
+        <td>temporal lobe</td>
+        <td>ATUM-mSEM</td>
+        <td>$2,000\times 3,000\times 175$</td>
+        <td>$4\times 4\times 30$</td>
+        <td>50,000 cells <br> 133,700,000 synapses</td>
+        <td><a href="https://h01-release.storage.googleapis.com/landing.html">google</a></td>
+        <td>Shapson-Coe $\textit{et al.}$, <a href="https://github.com/JackieZhai/awesome-em-datasets#2021">2021</a></td>
+        <td></td>
+    </tr>
+    <tr>
         <td>J0126</td>
-        <td>zebra finch</td>
+        <td>finch</td>
         <td>area X</td>
-        <td>SBEM</td>
+        <td>SBF-SEM</td>
         <td>$96\times 98\times 114$</td>
         <td>$9\times 9\times 20$</td>
         <td>33 blocks<br>12+50 skels</td>
-        <td><a href="https://storage.googleapis.com/j0126-nature-methods-data/GgwKmcKgrcoNxJccKuGIzRnQqfit9hnfK1ctZzNbnuU/rawdata_realigned">c.v.raw</a><br><a href="https://storage.googleapis.com/j0126-nature-methods-data/GgwKmcKgrcoNxJccKuGIzRnQqfit9hnfK1ctZzNbnuU/ffn_segmentation">c.v.seg.</a>
+        <td><a href="https://storage.googleapis.com/j0126-nature-methods-data/GgwKmcKgrcoNxJccKuGIzRnQqfit9hnfK1ctZzNbnuU/rawdata_realigned">cloudvolume-raw</a><br><a href="https://storage.googleapis.com/j0126-nature-methods-data/GgwKmcKgrcoNxJccKuGIzRnQqfit9hnfK1ctZzNbnuU/ffn_segmentation">cloudvolume-seg</a>
         </td>
         <td>Januszewski $\textit{et al.}$, <a href="https://github.com/JackieZhai/awesome-em-datasets#2018">2018</a></td>
         <td>testing for FFN</td>
@@ -60,10 +72,54 @@
         <td>$3\times 3\times 30$</td>
         <td>1,700 synapses</td>
         <td><a href="https://lichtman.rc.fas.harvard.edu/vast/">vast</a></td>
-        <td>Kasthuri $\textit{et al.}$, <a href="https://github.com/JackieZhai/awesome-em-datasets#2018">2015</a></td>
+        <td>Kasthuri $\textit{et al.}$, <a href="https://github.com/JackieZhai/awesome-em-datasets#2015">2015</a></td>
         <td>superset of SNEMI</td>
     </tr>
+    <tr>
+        <td>MICrONS Cortical $mm^3$</td>
+        <td>mouse</td>
+        <td>primary visual cortex and three higher visual areas</td>
+        <td>autoTEM</td>
+        <td>$1,300\times 870\times 820$</td>
+        <td>$4\times 4\times 40$</td>
+        <td>200,000 cells<br>524,000,000 synapses</td>
+        <td><a href="https://www.microns-explorer.org/cortical-mm3">microns</a><br><a href="https://zenodo.org/record/5760218#.Yrq7y6hBxPY">zenodo</a><br><a href="https://bossdb.org/project/microns-minnie">bossdb</a></td>
+        <td>MICrONS Consortium $\textit{et al.}$, <a href="https://github.com/JackieZhai/awesome-em-datasets#2021">2021</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>MICrONS Layer 2/3</td>
+        <td>mouse</td>
+        <td>primary visual cortex</td>
+        <td>ssTEM</td>
+        <td>$250\times 140\times 90$</td>
+        <td>$3.58\times 3.58\times 40$</td>
+        <td>451 neurons (417 PyCs)<br>169 non-neuronal cells</td>
+        <td><a href="https://www.microns-explorer.org/phase1">microns</a></td>
+        <td>Turner $\textit{et al.}$, <a href="https://github.com/JackieZhai/awesome-em-datasets#2022">2022</a></td>
+        <td>pilot dataset of MICrONS Cortical $mm^3$</td>
+    </tr>
 </table>
+
+
+## Microscopy
+
+### SEM
+
+* ATUM-SEM
+* ATUM-mSEM
+* SEF-SEM
+* FIB-SEM
+* GCIB-SEM
+
+### TEM
+
+* ssTEM
+* autoTEM
+
+### ET
+
+* ssET
 
 
 ## Reference
