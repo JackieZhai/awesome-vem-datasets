@@ -4,6 +4,14 @@
 [![Commit](https://img.shields.io/github/last-commit/JackieZhai/awesome-em-datasets)](https://github.com/JackieZhai/awesome-em-datasets/commits)
 [![RepoSize](https://img.shields.io/github/repo-size/JackieZhai/awesome-em-datasets)](https://github.com/JackieZhai/awesome-em-datasets/archive/refs/heads/master.zip)
 
+### Contents
+
+* [Overview](https://github.com/JackieZhai/awesome-em-datasets#overview)
+* [Microscopy](https://github.com/JackieZhai/awesome-em-datasets#microscopy)
+* [Reference](https://github.com/JackieZhai/awesome-em-datasets#reference)
+* [Acknowledgment](https://github.com/JackieZhai/awesome-em-datasets#acknowledgement)
+* [Contribution](https://github.com/JackieZhai/awesome-em-datasets#contribution)
+
 
 ## Overview
 
@@ -193,4 +201,4 @@ Social preview background image was taken from [PyGame](https://twitter.com/PyrG
 
 Please [**contribute**](https://github.com/JackieZhai/awesome-em-datasets/pulls) if you think a new dataset or a relevant paper is missing.
 
-Let's enjoy the beauty of EM data!
+Let's enjoy the beauty of EM data and micro-connectomes!
