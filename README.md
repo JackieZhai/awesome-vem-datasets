@@ -7,6 +7,7 @@
 ### Contents
 
 * [Overview](https://github.com/JackieZhai/awesome-em-datasets#overview)
+* [Species](https://github.com/JackieZhai/awesome-em-datasets#species)
 * [Microscopy](https://github.com/JackieZhai/awesome-em-datasets#microscopy)
 * [Size and Resolution](https://github.com/JackieZhai/awesome-em-datasets#size-and-resolution)
 * [Reference](https://github.com/JackieZhai/awesome-em-datasets#reference)
@@ -109,6 +110,14 @@
         <td>pilot dataset of MICrONS Cortical $mm^3$</td>
     </tr>
 </table>
+
+
+## Species
+
+* Smaers $\textit{et al.}$ [The Evolution of Mammalian Brain Size](https://doi.org/10.1126/sciadv.abe2101)
+<p align="center"><img src="FIGURE\mammalian_brain_size.jpeg" width="512"></p>
+
+Time-calibrated phylogeny of mammals with branch colors corresponding to the 30 significantly different allometric grades identified in this study. The ancestral mammalian grade is indicated in gray, with warmer colors (green and red) assigned to higher-slope grades, and colder colors (blue and purple) to lower-slope grades. For each grade, a lighter color hue indicates grades with a lower intercept, and a darker hue indicates grades with a higher intercept. Arrows indicate changes in mean body size (white arrows) or mean brain size (black arrows) resulting in grade shifts, with double arrows indicating one of these variables is changing faster than the other after considering allometry. Triangles indicate changes in cross-species trait variance in body size (white triangles) or brain size (black triangles), with normal triangles indicating increase in mean variance and inverted triangles indicating decrease in mean variance. The equality sign (=) indicates no discernible change in brain size variance.
 
 
 ## Microscopy
