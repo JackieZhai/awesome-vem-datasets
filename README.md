@@ -8,6 +8,7 @@
 
 * [Overview](https://github.com/JackieZhai/awesome-em-datasets#overview)
 * [Microscopy](https://github.com/JackieZhai/awesome-em-datasets#microscopy)
+* [Size and Resolution](https://github.com/JackieZhai/awesome-em-datasets#microscopy)
 * [Reference](https://github.com/JackieZhai/awesome-em-datasets#reference)
 * [Acknowledgment](https://github.com/JackieZhai/awesome-em-datasets#acknowledgement)
 * [Contribution](https://github.com/JackieZhai/awesome-em-datasets#contribution)
@@ -112,23 +113,45 @@
 
 ## Microscopy
 
+* Briggman $\textit{and}$ Bock. [Volume Electron Microscopy for Neuronal Circuit Reconstruction](https://doi.org/10.1016/j.conb.2011.10.022)
+<p align="center"><img src="FIGURE\volume_EM_schematics.jpg" width="512"></p>
+
+* Xu $\textit{et al.}$ [An Open-access Volume Electron Microscopy Atlas of Whole Cells and Tissues](https://doi.org/10.1038/s41586-021-03992-4)
+<p align="center"><img src="FIGURE\different_volume_EM_methods.webp" width="512"></p>
+
 ### SEM
 
-* ATUM-SEM
+* ATUM-SEM (b)
 * ATUM-mSEM
-* SEF-SEM
-* FIB-SEM
+* SEF-SEM (c)
+* FIB-SEM (d)
 * GCIB-SEM
 
 ### TEM
 
-* ssTEM
+* ssTEM (a)
 * autoTEM
 
 ### ET
 
 * ssET
 
+
+## Size and Resolution
+
+* Hess. (PSW 2417) [Super Resolution and 3-D Imaging](https://www.youtube.com/watch?v=tlvrkCZLagg)
+<p align="center"><img src="FIGURE\volume_capacity.png" width="512"></p>
+
+* Helmstaedter $\textit{et al.}$ [Cellular-resolution Connectomics: Challenges of Dense Neural Circuit Reconstruction](https://doi.org/10.1038/nmeth.2476)
+<p align="center"><img src="FIGURE\minimal_circuit_dimensions.png" width="768"></p>
+<p align="center"><img src="FIGURE\volume_EM_techniques.png" width="1024"></p>
+
+Volume electron microscopy techniques for cellular connectomics and their spatial resolution and scope. (2a–2d) Sketches of the four most widely used methods for dense-circuit reconstruction: conventional manual ultrathin sectioning of neuropil (2a) followed by TEM or TEMCA imaging (2a), ATUM-SEM (2b), SBEM (2c) and FIB-SEM (2d). In 2a,2b, tissue is first sectioned and then (potentially later) transferred into the electron microscope for imaging. In 2c,2d, the tissue block is abraded while imaging inside the electron microscope. (2e) Approximate minimal resolution and smallest spatial dimension typically attainable with the imaging techniques in 2a–2d, based on published results (gray shading); dashed lines indicate likely future extensions. Values also depend on the quality of staining and neurons of interest in a circuit. Approximate minimal resolution and minimal circuit dimension required to image indicated circuits. C. elegans w.b., C. elegans whole-brain reconstruction; solid line indicates longest series from one worm and dashed line, the combined series length from three worms. D.m. m.b., Drosophila melanogaster mushroom body; minimal required resolution based on estimate of smallest dendrites (30 nm diameter); D.m. medulla, D. melanogaster medulla, 1 cartridge (diameter of ~6 μm) with smallest processes less than 15 nm diameter. Human cortex, minimal circuit volume containing entire L5 pyramidal neuron dendrites and their local axons. Mouse cortex S1 layer 2/3, minimal circuit volume (1d). *, mouse cortex S1 layer 4 minimal circuit volume (1c). M.o.b.glom., mouse olfactory bulb, 1 glomerulus, only intraglomerular circuitry (1e). M. retina s.f., mouse retina, small field (1b). M.ret. w.f., mouse retina, wide field (including the largest amacrine and ganglion cells). Z.f. larv. w.b.: zebrafish larva whole brain.
+
+* Motta $\textit{et al.}$ [Big Data in Nanoscale Connectomics, and the Greed for Training Labels](https://doi.org/10.1016/j.conb.2019.03.012)
+<p align="center"><img src="FIGURE\content_in_connectomics.jpg" width="1024"></p>
+
+Data rates and information content in connectomics and other scientific methods. (a) Overview of raw data acquisition rates (black crosses) and total data amounts (blue) for connectomic and other techniques. Macroscale connectomics (macro): data from Human Connectome Project; Mesoscale connectomics (meso): data from Allen Brain Atlas, range indicates data rate for 1–6 microscopes; Light sheet microscopy (LSM) for cell tracking in animal development and whole-brain activity measurements; CERN: gray indicates immediate data rejection yielding a 6-order of magnitude data rate reduction; Human eye: estimate based on 1.2 million ganglion cells per eye, 1 B/s per ganglion cell axon, and 70 years median life time at 16 waking hours per day. (b) Relation between eventual data compressibility and time to achieve the required analysis for various big-data producing methods. Note that 3D EM techniques for connectomics in large (mammalian) brains stand out because of the enormous analysis times. Inset illustrates why imaging of cells using LSM, while generating higher data rates, is immediately and substantially compressible, which connectomic data are not. Note further that first whole-brain 3D EM connectomic datasets and analyses are available. Scale bars, 10 μm (LSM and SEM, left); 0.5 μm (SEM, right).
 
 ## Reference
 
