@@ -127,7 +127,7 @@
 * Briggman $\textit{and}$ Bock. [Volume Electron Microscopy for Neuronal Circuit Reconstruction](https://doi.org/10.1016/j.conb.2011.10.022). 2011
 <p align="center"><img src="FIGURE\volume_EM_schematics.jpg" width="512"></p>
 
-* Helmstaedter $\textit{et al.}$ [Cellular-resolution Connectomics: Challenges of Dense Neural Circuit Reconstruction](https://doi.org/10.1038/nmeth.2476). 2013
+* Helmstaedter. [Cellular-resolution Connectomics: Challenges of Dense Neural Circuit Reconstruction](https://doi.org/10.1038/nmeth.2476). 2013
 <p align="center"><img src="FIGURE\minimal_circuit_dimensions.png" width="512"></p>
 <p align="center"><img src="FIGURE\volume_EM_techniques.png" width="768"></p>
 
@@ -167,7 +167,7 @@
 * Motta $\textit{et al.}$ [Big Data in Nanoscale Connectomics, and the Greed for Training Labels](https://doi.org/10.1016/j.conb.2019.03.012)
 <p align="center"><img src="FIGURE\content_in_connectomics.jpg" width="768"></p>
 
-**Data rates and information content in connectomics and other scientific methods.** (a) Overview of raw data acquisition rates (black crosses) and total data amounts (blue) for connectomic and other techniques. Macroscale connectomics (macro): data from Human Connectome Project; Mesoscale connectomics (meso): data from Allen Brain Atlas, range indicates data rate for 1–6 microscopes; Light sheet microscopy (LSM) for cell tracking in animal development and whole-brain activity measurements; CERN: gray indicates immediate data rejection yielding a 6-order of magnitude data rate reduction; Human eye: estimate based on 1.2 million ganglion cells per eye, 1 B/s per ganglion cell axon, and 70 years median life time at 16 waking hours per day. (b) Relation between eventual data compressibility and time to achieve the required analysis for various big-data producing methods. Note that 3D EM techniques for connectomics in large (mammalian) brains stand out because of the enormous analysis times. Inset illustrates why imaging of cells using LSM, while generating higher data rates, is immediately and substantially compressible, which connectomic data are not. Note further that first whole-brain 3D EM connectomic datasets and analyses are available. Scale bars, 10 μm (LSM and SEM, left); 0.5 μm (SEM, right).
+**Data rates and information content in connectomics and other scientific methods.** (a) Overview of raw data acquisition rates (black crosses) and total data amounts (blue) for connectomic and other techniques. Human eye: estimate based on 1.2 million ganglion cells per eye, 1 B/s per ganglion cell axon, and 70 years median life time at 16 waking hours per day. (b) Relation between eventual data compressibility and time to achieve the required analysis for various big-data producing methods. Note that 3D EM techniques for connectomics in large (mammalian) brains stand out because of the enormous analysis times. Inset illustrates why imaging of cells using LSM, while generating higher data rates, is immediately and substantially compressible, which connectomic data are not. Note further that first whole-brain 3D EM connectomic datasets and analyses are available. Scale bars, 10 μm (LSM and SEM, left); 0.5 μm (SEM, right).
 
 ## Reference
 
