@@ -120,7 +120,7 @@
 ## Species
 
 * Barsotti $\textit{et al}$. [Neural architectures in the light of comparative connectomics](https://doi.org/10.1016/j.conb.2021.10.006)
-<p align="center"><img src="FIGURE/species_for_comparative_connectomics.png" width="512"></p>
+<p align="center"><img src="FIGURE/species_for_comparative_connectomics.png" width="768"></p>
 
 **Phylogenetic tree of possible candidate reference species for comparative connectomics plus a few others for reference such as humans.** See also the table: list of brain volumes and estimated imaging time with GridTape TEM, with 151 being the number of days necessary to acquire a volume of $1\times 0.5\times 0.5 mm^3$. Asterisk, volumes that can be acquired in less than or up to about a year of 24/7 imaging.
 
