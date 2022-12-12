@@ -161,18 +161,6 @@
         <td></td>
     </tr>
     <tr>
-        <td>Zebra finch dataset</td>
-        <td>Zebra finch</td>
-        <td>Area X</td>
-        <td>SBEM</td>
-        <td>$97.9\times 95.6\times 115$</td>
-        <td>$9\times 9\times 20$</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
         <td>VNC</td>
         <td>drosophila</td>
         <td>ventral nerve cord</td>
