@@ -160,6 +160,30 @@
         <td>Kisuk Lee $\textit{et al}$., <a href="https://github.com/WillieBigHead/awesome-em-datasets#2015">2015</a></td>
         <td></td>
     </tr>
+    <tr>
+        <td>Zebra finch dataset</td>
+        <td>Zebra finch</td>
+        <td>Area X</td>
+        <td>SBEM</td>
+        <td>$97.9\times 95.6\times 115$</td>
+        <td>$9\times 9\times 20$</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>VNC</td>
+        <td>drosophila</td>
+        <td>ventral nerve cord</td>
+        <td>ssTEM</td>
+        <td>$4.7\times 4.7\times 1$</td>
+        <td>$4.6\times 4.6\times 45$</td>
+        <td></td>
+        <td><a href="https://github.com/unidesigner/groundtruth-drosophila-vnc">github</a></td>
+        <td>Gerhard $\textit{et al}$., <a href="https://github.com/WillieBigHead/awesome-em-datasets#2013">2013</a></td>
+        <td></td>
+    </tr>
 </table>
 
 * Kornfeld $\textit{and}$ Denk. [Progress and Remaining Challenges in High-throughput Volume Electron Microscopy](https://doi.org/10.1016/j.conb.2018.04.030). 2018
@@ -277,6 +301,8 @@
 
 ### 2014
 ### 2013
+
+* Gerhard $\textit{et al}$. [Segmented anisotropic ssTEM dataset of neural tissue](https://www.zora.uzh.ch/id/eprint/91121/)
 
 
 ## Related Work
