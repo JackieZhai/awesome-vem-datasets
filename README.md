@@ -110,6 +110,30 @@
         <td>Turner $\textit{et al}$., <a href="https://github.com/JackieZhai/awesome-em-datasets#2022">2022</a></td>
         <td>pilot dataset of MICrONS Cortical $mm^3$</td>
     </tr>
+    <tr>
+        <td>ISBI</td>
+        <td>fly</td>
+        <td>ventral nerve line</td>
+        <td>ssTEM</td>
+        <td>$2\times 2\times 1.5$</td>
+        <td>$4\times 4\times 50$</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Segmentation of neuronal structures in EM stacks</td>
+    </tr>
+    <tr>
+        <td>SNEMI3D</td>
+        <td>mouse</td>
+        <td>cortex</td>
+        <td>ATUM-SEM</td>
+        <td>$6\times 6\times 3$</td>
+        <td>$6\times 6\times 30$</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>SNEMI3D: 3D Segmentation of neurites in EM images</td>
+    </tr>
 </table>
 
 * Kornfeld $\textit{and}$ Denk. [Progress and Remaining Challenges in High-throughput Volume Electron Microscopy](https://doi.org/10.1016/j.conb.2018.04.030). 2018
