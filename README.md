@@ -110,6 +110,68 @@
         <td>Turner $\textit{et al}$., <a href="https://github.com/JackieZhai/awesome-em-datasets#2022">2022</a></td>
         <td>pilot dataset of MICrONS Cortical $mm^3$</td>
     </tr>
+    <tr>
+        <td>ISBI</td>
+        <td>drosophila</td>
+        <td>ventral nerve line</td>
+        <td>ssTEM</td>
+        <td>$2\times 2\times 1.5$</td>
+        <td>$4\times 4\times 50$</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Segmentation of neuronal structures in EM stacks</td>
+    </tr>
+    <tr>
+        <td>SNEMI3D</td>
+        <td>mouse</td>
+        <td>cortex</td>
+        <td>ATUM-SEM</td>
+        <td>$6\times 6\times 3$</td>
+        <td>$6\times 6\times 30$</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>SNEMI3D: 3D Segmentation of neurites in EM images</td>
+    </tr>
+    <tr>
+        <td>CREMI</td>
+        <td>drosophila</td>
+        <td>melanogaster brain</td>
+        <td>ssTEM</td>
+        <td>$5\times 5\times 5$</td>
+        <td>$4\times 4\times 40$</td>
+        <td></td>
+        <td><a href="https://cremi.org/data/">
+        CREMI</a></td>
+        <td></td>
+        <td>MICCAI Challenge on
+        Circuit Reconstruction from Electron Microscopy Images</td>
+    </tr>
+    <tr>
+        <td>Images of mouse piriform cortex</td>
+        <td>mouse</td>
+        <td>piriform cortex</td>
+        <td>ssTEM</td>
+        <td>$3.5\times 3.5\times 6.8$</td>
+        <td>$7\times 7\times 40$</td>
+        <td></td>
+        <td></td>
+        <td>Kisuk Lee $\textit{et al}$., <a href="https://github.com/WillieBigHead/awesome-em-datasets#2015">2015</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>VNC</td>
+        <td>drosophila</td>
+        <td>ventral nerve cord</td>
+        <td>ssTEM</td>
+        <td>$4.7\times 4.7\times 1$</td>
+        <td>$4.6\times 4.6\times 45$</td>
+        <td></td>
+        <td><a href="https://github.com/unidesigner/groundtruth-drosophila-vnc">github</a></td>
+        <td>Gerhard $\textit{et al}$., <a href="https://github.com/WillieBigHead/awesome-em-datasets#2013">2013</a></td>
+        <td></td>
+    </tr>
 </table>
 
 * Kornfeld $\textit{and}$ Denk. [Progress and Remaining Challenges in High-throughput Volume Electron Microscopy](https://doi.org/10.1016/j.conb.2018.04.030). 2018
@@ -221,9 +283,14 @@
 * Kasthuri $\textit{et al}$. [Saturated Reconstruction of a Volume of Neocortex](https://doi.org/10.1016/j.cell.2015.06.054)
 <p align="center"><img src="FIGURE/Kasthuri.png" width="512"></p>
 
+* Kisuk Lee $\textit{et al}$. [Recursive Training of 2D-3D Convolutional Networks for Neuronal Boundary Prediction](https://proceedings.neurips.cc/paper/2015/hash/39dcaf7a053dc372fbc391d4e6b5d693-Abstract.html)
+<p align="center"><img src="FIGURE/Kisuk Lee.png" width="512"></p>
+
 
 ### 2014
 ### 2013
+
+* Gerhard $\textit{et al}$. [Segmented anisotropic ssTEM dataset of neural tissue](https://www.zora.uzh.ch/id/eprint/91121/)
 
 
 ## Related Work
