@@ -10,6 +10,11 @@
 * [Overview](https://github.com/JackieZhai/awesome-em-datasets#overview)
 * [Background](https://github.com/JackieZhai/awesome-em-datasets/blob/master/BACKGROUND.md)
 * [Reference](https://github.com/JackieZhai/awesome-em-datasets/blob/master/REFERENCE.md)
+* Materials
+    * [Elaborate Review](https://github.com/JackieZhai/awesome-em-datasets#elaborate-review)
+    * [Open-access Resource](https://github.com/JackieZhai/awesome-em-datasets#open-access-resource)
+    * [Related Work](https://github.com/JackieZhai/awesome-em-datasets#related-work)
+* [Group](https://github.com/JackieZhai/awesome-em-datasets#group)
 * [Contribution](https://github.com/JackieZhai/awesome-em-datasets#contribution)
 
 
