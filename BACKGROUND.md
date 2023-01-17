@@ -5,10 +5,21 @@
 
 ### BRAIN Initiative
 
-The U.S. Brain Research Through Advancing Innovative Neurotechnologies (BRAIN) Initiative
+Brain Research through Advancing Innovative Neurotechnologies (BRAIN) Initiative
+
+The BRAIN microconnectivity project: Working toward a wiring diagram of an entire mammalian brain. A workshop series co-hosted by the NIH BRAIN Initiative and Department of Energy Office of Science (https://brainconnectivityseries.com) explored the current state of the art, challenges, and opportunities in creating whole mammalian brain microconnectivity maps; a summary of the workshops can be found at https://doi.org/10.2172/1812309.
+<p align="center"><img src="FIGURE/Brain2.0.png" width="512"></p>
+
+### EBRAINS 
+
+This EBRAINS research infrastructure is the entry point for researchers to discover EBRAINS services. The services are being developed and powered by the EU-funded Human Brain Project.
 
 ### STI 2030-Major Projects
-National Science and Technology Innovation 2030 Major Program 
+
+Science and Technology Innovation 2030 Major Program (Brain Science and Brain-inspired Research)
+
+This project will focus on non-human primate full-brain meso-connectome.
+<p align="center"><img src="FIGURE/STI2030.png" width="768"></p>
 
 ## Species
 
