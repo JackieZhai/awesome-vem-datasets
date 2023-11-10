@@ -365,14 +365,6 @@
 @ Xinghui Zhao
 
 
-## Elaborate Review
-
-* Kornfeld <i>and</i> Denk. [Progress and Remaining Challenges in High-throughput Volume Electron Microscopy](https://doi.org/10.1016/j.conb.2018.04.030). 2018
-* Kievits <i>et al.</i> [How Innovations in Methodology Offer New Prospects for Volume Electron Microscopy](https://doi.org/10.1111/jmi.13134). 2022
-* Beyer <i>et al.</i> [A Survey of Visualization and Analysis in High-Resolution Connectomics](https://doi.org/10.1111/cgf.14574). 2022
-* Jefferis <i>et al.</i> [Scaling up Connectomics: The Road to a Whole Mouse Brain Connectome](https://wellcome.org/reports/scaling-connectomics). 2023
-
-
 ## Open-access Resource
 
 * [Open Connectome Project](https://neurodata.io/project/ocp/)
@@ -385,10 +377,19 @@
 * [Zenodo](https://zenodo.org/)
 
 
+## Related Review
+
+* Kornfeld <i>and</i> Denk. [Progress and Remaining Challenges in High-throughput Volume Electron Microscopy](https://doi.org/10.1016/j.conb.2018.04.030). 2018
+* Kievits <i>et al.</i> [How Innovations in Methodology Offer New Prospects for Volume Electron Microscopy](https://doi.org/10.1111/jmi.13134). 2022
+* Beyer <i>et al.</i> [A Survey of Visualization and Analysis in High-Resolution Connectomics](https://doi.org/10.1111/cgf.14574). 2022
+* Jefferis <i>et al.</i> [Scaling up Connectomics: The Road to a Whole Mouse Brain Connectome](https://wellcome.org/reports/scaling-connectomics). 2023
+
+
 ## Related Work
 
 * [connectomics-vis-survey.github.io](https://connectomics-vis-survey.github.io/)
 * [tianyan.gitlab.io/braindata/connectomics-survey](https://tianyan.gitlab.io/braindata/connectomics-survey/)
+* [github.com/subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images](https://github.com/subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images)
 
 
 ## Contribution
