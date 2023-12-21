@@ -114,11 +114,12 @@
 
 * [connectomics-vis-survey.github.io](https://connectomics-vis-survey.github.io/)
 * [tianyan.gitlab.io/braindata/connectomics-survey](https://tianyan.gitlab.io/braindata/connectomics-survey/)
+* [github.com/subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images](https://github.com/subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images)
+* [github.com/Levishery/connectomic-paper-datasets](https://github.com/Levishery/connectomic-paper-datasets)
 
 
 ## Related Code
 
-* [github.com/subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images](https://github.com/subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images)
 * [Local Shape Descriptors](https://github.com/funkelab/lsd)
 * [PyTorch Connectomics](https://connectomics.readthedocs.io/en/latest/tutorials/neuron.html)
 
