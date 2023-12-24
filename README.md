@@ -113,6 +113,7 @@
 ## Related Survey
 
 * [connectomics-vis-survey.github.io](https://connectomics-vis-survey.github.io/)
+* [braincircuits.io/resources](https://braincircuits.io/resources)
 * [tianyan.gitlab.io/braindata/connectomics-survey](https://tianyan.gitlab.io/braindata/connectomics-survey/)
 * [github.com/subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images](https://github.com/subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images)
 * [github.com/Levishery/connectomic-paper-datasets](https://github.com/Levishery/connectomic-paper-datasets)
