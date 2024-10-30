@@ -30,8 +30,9 @@
 |:--------:|:----------:|:--------------:|:--------|
 |   2024   | NISB       |  Connectomics Conf 2024 | https://structuralneurobiologylab.github.io/nisb/# |
 |   2013   | SNEMI3D    |   ISBI 2013    | https://snemi3d.grand-challenge.org/ |
-|   2016   | CREMI*     |  MICCAI 2016   | https://cremi.org/ |
+|   2016   | CREMI      |  MICCAI 2016   | https://cremi.org/ |
 |   2012   | ISBI 2012* |   ISBI 2012    | https://imagej.net/events/isbi-2012-segmentation-challenge |
+
 \* may not be available
 
 ### Distinguish Connectome
