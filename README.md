@@ -33,9 +33,9 @@
 |   2021   | MICrONS (mm<sup>3</sup>) | ~2.0 PB  | https://microns-explorer.org/ |
 
 <p float="left">
-  <img src="FIGURE/PB-M-S1.png" width="240" />
-  <img src="FIGURE/PB-H-T.png" width="360" /> 
-  <img src="FIGURE/PB-M-V1.png" width="350" />
+  <img src="FIGURE/PB-M-S1.png" width="120" />
+  <img src="FIGURE/PB-H-T.png" width="180" /> 
+  <img src="FIGURE/PB-M-V1.png" width="175" />
 </p>
 
 
