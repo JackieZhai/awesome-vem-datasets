@@ -32,14 +32,14 @@
 |   2021   | H01                      | ~1.4 PB  | https://h01-release.storage.googleapis.com/data.html |
 |   2021   | MICrONS (mm<sup>3</sup>) | ~2.0 PB  | https://microns-explorer.org/ |
 
-<div class="row">
-  <div class="column">
+<div class="image123">
+  <div class="imageContainer">
     <img src="FIGURE/PB-M-S1.png" alt="Si" style="width:24%">
   </div>
-  <div class="column">
+  <div class="imageContainer">
     <img src="FIGURE/PB-H-T.png" alt="H01" style="width:35%">
   </div>
-  <div class="column">
+  <div class="imageContainer">
     <img src="FIGURE/PB-M-V1.png" alt="MICrONS" style="width:35%">
   </div>
 </div>
