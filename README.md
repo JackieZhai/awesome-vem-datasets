@@ -104,9 +104,149 @@
         <td><a href="https://h01-release.storage.googleapis.com/landing.html">google</a></td>
         <td></td>
     </tr>
+    <tr>
+        <td>SNEMI3D (AC3/AC4)</td>
+        <td></td>
+        <td>6x6x30</td>
+        <td></td>
+        <td>6x6x30</td>
+        <td>AC3: 1024x1024x256<br>AC4: 1024x1024x100</td>
+        <td><a href="https://snemi3d.grand-challenge.org/">grand-challenge</a><br><a href="https://drive.google.com/drive/folders/1JAdoKchlWrHnbTXvnF6pWWwx6VIiMH3?usp=sharing">drive-mirror</a></td>
+        <td>subsets of Kasthuri15 (mouse cortex), dense neurites</td>
+    </tr>
+    <tr>
+        <td>CREMI A/B/C</td>
+        <td></td>
+        <td>4x4x40</td>
+        <td></td>
+        <td>4x4x40</td>
+        <td>3x 1250x1250x125</td>
+        <td><a href="https://cremi.org/data/">cremi</a></td>
+        <td>from FAFB; neuron + synaptic cleft + partner labels</td>
+    </tr>
+    <tr>
+        <td>ISBI 2012</td>
+        <td>2x2x1.5</td>
+        <td>4x4x50</td>
+        <td>2x2x1.5</td>
+        <td>4x4x50</td>
+        <td>30x 512x512</td>
+        <td><a href="https://imagej.net/events/isbi-2012-segmentation-challenge">imagej</a></td>
+        <td>drosophila VNC, membrane labels</td>
+    </tr>
+    <tr>
+        <td>FIB-25 (training)</td>
+        <td></td>
+        <td>8x8x8</td>
+        <td></td>
+        <td>8x8x8</td>
+        <td></td>
+        <td><a href="https://github.com/google/ffn#sample-data">ffn-sample</a><br><a href="https://github.com/janelia-flyem/neuroproof_examples">neuroproof</a></td>
+        <td>drosophila optic medulla, dense GT (also FFN training data)</td>
+    </tr>
+    <tr>
+        <td>J0126 (training)</td>
+        <td>96x98x114</td>
+        <td>9x9x20</td>
+        <td></td>
+        <td>9x9x20</td>
+        <td>33 blocks<br>12+50 skels</td>
+        <td><a href="https://storage.googleapis.com/j0126-nature-methods-data/GgwKmcKgrcoNxJccKuGIzRnQqfit9hnfK1ctZzNbnuU/rawdata_realigned">cloudvolume-raw</a></td>
+        <td>zebra finch area X, FFN training/evaluation blocks</td>
+    </tr>
+    <tr>
+        <td>MICrONS Pinky (training)</td>
+        <td></td>
+        <td>4x4x40</td>
+        <td></td>
+        <td></td>
+        <td>3 stacks</td>
+        <td><a href="https://bossdb.org/project/microns_pinky2021">bossdb</a><br><a href="https://www.microns-explorer.org/phase1">microns</a></td>
+        <td>mouse visual cortex, MICrONS phase 1</td>
+    </tr>
+    <tr>
+        <td>Harris2015</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>3 volumes</td>
+        <td><a href="https://bossdb.org/project/harris2015">bossdb</a></td>
+        <td>rat hippocampus CA1 neuropil (dendrites, axons, synapses)</td>
+    </tr>
+    <tr>
+        <td>Lucchi (EPFL Hippocampus)</td>
+        <td></td>
+        <td>5x5x5</td>
+        <td></td>
+        <td>5x5x5</td>
+        <td>2x 1024x768x165</td>
+        <td><a href="https://www.epfl.ch/labs/cvlab/data/data-em/">epfl</a></td>
+        <td>mitochondria benchmark (FIB-SEM, hippocampus CA1)</td>
+    </tr>
+    <tr>
+        <td>Lucchi++ / Kasthuri++</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://casser.io/connectomics/">casser.io</a></td>
+        <td>re-annotated mitochondria benchmarks</td>
+    </tr>
+    <tr>
+        <td>MitoEM</td>
+        <td>2x 30x30x30</td>
+        <td>8x8x30</td>
+        <td>2x 30x30x30</td>
+        <td>8x8x30</td>
+        <td>~40,000 instances</td>
+        <td><a href="https://mitoem.grand-challenge.org/">grand-challenge</a></td>
+        <td>mitochondria, human + rat cortex; subsets of H01-like and rat volumes</td>
+    </tr>
+    <tr>
+        <td>NucMM</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://nucmm.grand-challenge.org/">grand-challenge</a></td>
+        <td>nuclei; zebrafish whole brain (vEM) + mouse cortex (micro-CT)</td>
+    </tr>
+    <tr>
+        <td>EMNeuron</td>
+        <td></td>
+        <td>multi (5&ndash;10 in-plane)</td>
+        <td></td>
+        <td></td>
+        <td>&gt;3 of 22 billion voxels labeled</td>
+        <td><a href="https://huggingface.co/datasets/yanchaoz/EMNeuron">huggingface</a></td>
+        <td>16 sub-datasets (ZFinch, HBrain, FIB25, H01, Pinky, FAFB, Kasthuri, Basil, Harris, ...); multi-species/modality collection of SegNeuron (MICCAI 2024)</td>
+    </tr>
+    <tr>
+        <td>Wafer (MEC)</td>
+        <td></td>
+        <td>8x8x35</td>
+        <td></td>
+        <td>8x8x35</td>
+        <td>1.2 billion voxels labeled<br>(6 regions, 1250x1250x125 each)</td>
+        <td><a href="https://huggingface.co/datasets/cyd0806/wafer_EM">huggingface</a></td>
+        <td>mouse MEC wafer data of TokenUnify (ICCV 2025); access request required</td>
+    </tr>
+    <tr>
+        <td>STAR (test)</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://doi.org/10.5281/zenodo.1490123">zenodo</a></td>
+        <td>generalization test volume of the STAR challenge</td>
+    </tr>
 </table>
 
-*TODO: Other Accessible Ground Truth*
+*for pre-training at scale (unlabeled): [CEM500K](https://www.ebi.ac.uk/empiar/EMPIAR-10592/) <sup>EMPIAR</sup>, [EM_pretrain_data](https://huggingface.co/datasets/cyd0806/EM_pretrain_data) <sup>TokenUnify</sup>*
 
 
 ## Open-access Resource
@@ -141,6 +281,8 @@
 
 * [Local Shape Descriptors](https://github.com/funkelab/lsd)
 * [PyTorch Connectomics](https://connectomics.readthedocs.io/en/latest/tutorials/neuron.html)
+* [SegNeuron](https://github.com/yanchaoz/SegNeuron) <sup>generalist model + EMNeuron database</sup>
+* [TokenUnify](https://github.com/ydchen0806/TokenUnify) <sup>autoregressive pre-training + Wafer (MEC) data</sup>
 
 
 ## Contribution
