@@ -11,6 +11,7 @@
     * Distinguish Connectome
     * Accessible Ground Truth
 * [Background](https://github.com/JackieZhai/awesome-em-datasets/blob/master/BACKGROUND.md)
+* [Museum of Datasets](https://github.com/JackieZhai/awesome-em-datasets/blob/master/DATASET.md)
 * [Reference](https://github.com/JackieZhai/awesome-em-datasets/blob/master/REFERENCE.md)
 * Materials
     * [Open-access Resource](https://github.com/JackieZhai/awesome-em-datasets#open-access-resource)
@@ -53,11 +54,15 @@
 
 | **Full set** | **Subset**              | **Connectome**                             | **Link** |
 |:------------:|:-----------------------:|:------------------------------------------:|:--------:|
-| FAFB         | CREMI-A/B/C             | FlyWire                                    |   |
+| FAFB         | CREMI-A/B/C             | FlyWire                                    | https://codex.flywire.ai/ |
 | Kasthuri15   | SNEMI3D/AC3/AC4         | two cylinders |   |
-| Hemi-brain   | Hemi-brain training set |                                            |   |
+| Hemi-brain   | Hemi-brain training set | Hemi-brain v1.2.1                          | https://neuprint.janelia.org/ |
 | FIB-25       | FIB-25 training set     |                                            |   |
 | J0126        | J0126 training set      |                                            |   |
+| L1EM (larval CNS) |                    | larval Drosophila whole-brain connectome   | https://l1em.catmaid.virtualflybrain.org/ |
+| Male CNS     |                         | male Drosophila CNS connectome             | https://neuprint.janelia.org/ |
+| BANC         |                         | brain-and-nerve-cord connectome            | https://bossdb.org/project/bates_phelps_kim_yang2025 |
+| MICrONS (mm<sup>3</sup>) | MICrONS training stacks | MICrONS functional connectome  | https://www.microns-explorer.org/cortical-mm3 |
 
 *TODO: Other Accessible Ground Truth*
 
@@ -120,6 +125,7 @@
 * Kievits <i>et al.</i> [How Innovations in Methodology Offer New Prospects for Volume Electron Microscopy](https://doi.org/10.1111/jmi.13134). 2022
 * Beyer <i>et al.</i> [A Survey of Visualization and Analysis in High-Resolution Connectomics](https://doi.org/10.1111/cgf.14574). 2022
 * Jefferis <i>et al.</i> [Scaling up Connectomics: The Road to a Whole Mouse Brain Connectome](https://wellcome.org/reports/scaling-connectomics). 2023
+* Helmstaedter. [Synaptic-resolution Connectomics: Towards Large Brains and Connectomic Screening](https://doi.org/10.1038/s41583-025-00998-z). 2025
 
 
 ## Related Survey
