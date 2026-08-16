@@ -481,6 +481,18 @@
         <td>Svara <i>et al.</i>, <a href="https://github.com/JackieZhai/awesome-em-datasets/blob/master/REFERENCE.md#2018">2018</a></td>
         <td>wiring specificity in speed-related motor circuits</td>
     </tr>
+    <tr>
+        <td>Hindbrain Integrator</td>
+        <td>zebrafish</td>
+        <td>larval hindbrain (oculomotor integrator)</td>
+        <td>ssTEM</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Vishwanathan <i>et al.</i>, <a href="https://github.com/JackieZhai/awesome-em-datasets/blob/master/REFERENCE.md#2017">2017</a>, <a href="https://github.com/JackieZhai/awesome-em-datasets/blob/master/REFERENCE.md#2024">2024</a></td>
+        <td>functionally identified cells (calcium imaging + EM); modular function prediction</td>
+    </tr>
 </table>
 
 ### Whole-brain / Whole-CNS Datasets
@@ -617,6 +629,30 @@
         <td><a href="https://bossdb.org/project/hildebrand2017">bossdb</a></td>
         <td>Hildebrand <i>et al.</i>, <a href="https://github.com/JackieZhai/awesome-em-datasets/blob/master/REFERENCE.md#2017">2017</a></td>
         <td>whole-brain serial-section EM; myelinated-axon projectome</td>
+    </tr>
+    <tr>
+        <td>Svara2022 (mapzebrain)</td>
+        <td>zebrafish</td>
+        <td>whole brain (larva)</td>
+        <td>SBF-SEM</td>
+        <td>~0.058 mm<sup>3</sup><br>(12.5 Tvx, ~29,000 sections)</td>
+        <td>14x14x25</td>
+        <td>~121,000 neurons</td>
+        <td><a href="https://mapzebrain.org">mapzebrain</a></td>
+        <td>Svara <i>et al.</i>, <a href="https://github.com/JackieZhai/awesome-em-datasets/blob/master/REFERENCE.md#2022">2022</a></td>
+        <td>FFN segmentation + automated synapse detection; pretectal motion-processing network; community proofreading</td>
+    </tr>
+    <tr>
+        <td>Fish1</td>
+        <td>zebrafish</td>
+        <td>whole brain + spinal cord + ganglia (7-dpf larva)</td>
+        <td></td>
+        <td></td>
+        <td>4x4x30</td>
+        <td>187,053 cell bodies</td>
+        <td><a href="https://fish1-release.storage.googleapis.com/index.html">fish1</a></td>
+        <td>Lichtman / Engert / Google, <a href="https://github.com/JackieZhai/awesome-em-datasets/blob/master/REFERENCE.md#2025">2025</a></td>
+        <td>EM + confocal LM of the same specimen; neurotransmitter-annotated; CAVE community reconstruction (preprints)</td>
     </tr>
 </table>
 

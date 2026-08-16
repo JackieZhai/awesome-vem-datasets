@@ -18,6 +18,9 @@
 ### Corteze $\textit{et al}$. 
 [Large-scale 3D EM Connectomics Dataset of Mouse Hippocampal Area CA1](https://doi.org/10.1101/2025.04.04.647285) <sup>preprint</sup>
 
+### Fish1 Consortium (Lichtman / Engert / Google). 
+[A Connectomic Resource for Neural Cataloguing and Circuit Dissection of the Larval Zebrafish Brain](https://doi.org/10.1101/2025.06.10.658982) <sup>preprint (Fish1)</sup>; [Multiplexed Neuromodulatory-type-annotated Whole-brain EM-reconstruction of Larval Zebrafish](https://doi.org/10.1101/2025.06.12.659365) <sup>companion preprint</sup>
+
 
 ## 2024
 
@@ -37,6 +40,9 @@
 ### Sievers $\textit{et al}$. 
 [Connectomic Reconstruction of a Cortical Column](https://doi.org/10.1101/2024.03.22.586254) <sup>preprint</sup>
 
+### Vishwanathan $\textit{et al}$. 
+[Predicting Modular Functions and Neural Coding of Behavior from a Synaptic Wiring Diagram](https://doi.org/10.1038/s41593-024-01784-3) <sup>zebrafish oculomotor integrator</sup>
+
 
 ## 2023
 
@@ -51,6 +57,9 @@
 
 ### Loomba $\textit{et al}$. 
 [Connectomic Comparison of Mouse and Human Cortex](https://doi.org/10.1126/science.abo0924)
+
+### Svara $\textit{et al}$. 
+[Automated Synapse-level Reconstruction of Neural Circuits in the Larval Zebrafish Brain](https://doi.org/10.1038/s41592-022-01621-0) <sup>mapzebrain</sup>
 
 ### Turner $\textit{et al}$. 
 [Reconstruction of Neocortex: Organelles, Compartments, Cells, Circuits, and Activity](https://doi.org/10.1016/j.cell.2022.01.023)
@@ -98,6 +107,9 @@
 [A connectome and analysis of the adult Drosophila central brain](https://doi.org/10.7554/eLife.57443)
 <p align="center"><img src="FIGURE/HemiBrain.png" width="512"></p>
 
+### Wanner $\textit{and}$ Friedrich. 
+[Whitening of Odor Representations by the Wiring Diagram of the Olfactory Bulb](https://doi.org/10.1038/s41593-019-0576-z) <sup>zebrafish OB connectome</sup>
+
 
 ## 2019
 
@@ -137,6 +149,9 @@
 
 ### Schmidt $\textit{et al}$. 
 [Axonal Synapse Sorting in Medial Entorhinal Cortex](https://doi.org/10.1038/nature24005) <sup>mouse MEC</sup>
+
+### Vishwanathan $\textit{et al}$. 
+[Electron Microscopic Reconstruction of Functionally Identified Cells in a Neural Integrator](https://doi.org/10.1016/j.cub.2017.06.028) <sup>zebrafish hindbrain</sup>
 
 
 ## 2016

@@ -72,6 +72,8 @@
 | Lee2016      |                         | V1 excitatory network (function + structure) | https://bossdb.org/project/lee2016 |
 | dLGN         |                         | visual thalamus network                    | https://bossdb.org/project/morgan2020 |
 | Cerebellum (Nguyen) |                  | cerebellar pattern-separation circuit      | https://bossdb.org/project/nguyen_thomas2022 |
+| Svara2022 (mapzebrain) |               | whole-brain larval zebrafish reconstruction (~121,000 neurons) | https://mapzebrain.org |
+| Fish1        |                         | whole-brain 7-dpf larval zebrafish community connectome | https://fish1-release.storage.googleapis.com/index.html |
 
 *TODO: Other Accessible Ground Truth*
 
