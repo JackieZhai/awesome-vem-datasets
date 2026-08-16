@@ -63,6 +63,15 @@
 | Male CNS     |                         | male Drosophila CNS connectome             | https://neuprint.janelia.org/ |
 | BANC         |                         | brain-and-nerve-cord connectome            | https://bossdb.org/project/bates_phelps_kim_yang2025 |
 | MICrONS (mm<sup>3</sup>) | MICrONS training stacks | MICrONS functional connectome  | https://www.microns-explorer.org/cortical-mm3 |
+| e2198        | EyeWire cubes           | retinal direction-selectivity circuit + ganglion-cell museum | https://museum.eyewire.org/ |
+| e2006        | SegEM retina training set | inner plexiform layer dense connectome (950 cells) | https://neuro.rzg.mpg.de/ |
+| S1 SBEM (2012-09-28_ex145) | SegEM cortex training set | L4dense connectome        | https://l4dense2019.brain.mpg.de/ |
+| S1 mSEM (Sievers) |                    | first complete cortical column connectome  | https://webknossos.org/publications |
+| MEC SBEM (Schmidt) |                   | axonal synapse sorting in medial entorhinal cortex | https://webknossos.org/publications |
+| Bock2011     |                         | V1 functional network                      | https://bossdb.org/project/bock2011 |
+| Lee2016      |                         | V1 excitatory network (function + structure) | https://bossdb.org/project/lee2016 |
+| dLGN         |                         | visual thalamus network                    | https://bossdb.org/project/morgan2020 |
+| Cerebellum (Nguyen) |                  | cerebellar pattern-separation circuit      | https://bossdb.org/project/nguyen_thomas2022 |
 
 *TODO: Other Accessible Ground Truth*
 

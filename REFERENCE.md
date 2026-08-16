@@ -135,6 +135,9 @@
 ### Eichler $\textit{et al}$. 
 [The Complete Connectome of a Learning and Memory Centre in an Insect Brain](https://doi.org/10.1038/nature23455) <sup>larval Drosophila mushroom body</sup>
 
+### Schmidt $\textit{et al}$. 
+[Axonal Synapse Sorting in Medial Entorhinal Cortex](https://doi.org/10.1038/nature24005) <sup>mouse MEC</sup>
+
 
 ## 2016
 
