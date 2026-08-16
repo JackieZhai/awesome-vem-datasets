@@ -10,6 +10,8 @@ Brain Research through Advancing Innovative Neurotechnologies (BRAIN) Initiative
 The BRAIN microconnectivity project: Working toward a wiring diagram of an entire mammalian brain. A workshop series co-hosted by the NIH BRAIN Initiative and Department of Energy Office of Science (https://brainconnectivityseries.com) explored the current state of the art, challenges, and opportunities in creating whole mammalian brain microconnectivity maps; a summary of the workshops can be found at https://doi.org/10.2172/1812309.
 <p align="center"><img src="FIGURE/Brain2.0.png" width="512"></p>
 
+These efforts have since grown into **BRAIN CONNECTS** (BRAIN Initiative Connectivity Across Scales, https://www.brain-connects.org/), an NIH consortium launched in 2023 to develop tools to map wiring across the brain (toward a whole mouse brain connectome), advance understanding of circuits, and accelerate treatments for brain disorders. It comprises projects on volume EM (Lichtman, da Costa, Kasthuri, <i>etc.</i>), light microscopy (Fischl, Yendiki, <i>etc.</i>), barcoded connectomics (Feng, Chen, Macosko, <i>etc.</i>), X-ray imaging (Schaefer, <i>etc.</i>), mesoscale connectomics (Ugurbil, <i>etc.</i>), and data coordination centers (Pestilli, Zeng, <i>etc.</i>).
+
 ### STI 2030-Major Projects
 
 Science and Technology Innovation 2030 Major Program (Brain Science and Brain-inspired Research)

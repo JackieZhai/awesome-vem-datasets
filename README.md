@@ -100,9 +100,79 @@
         <td>4x4x30</td>
         <td></td>
         <td>8x8x30</td>
+        <td>104 proofread neurons<br>183,000,000 synapses</td>
+        <td><a href="https://h01-release.storage.googleapis.com/landing.html">google</a><br><a href="https://storage.googleapis.com/h01-release/data/20210601/proofread_104/skeletons/104_proofread_neurons_swc.zip">swc-zip</a></td>
+        <td>proofread cells as SWC skeletons + subcellular annotations</td>
+    </tr>
+    <tr>
+        <td>e2006 (repository)</td>
+        <td>114x80x132</td>
+        <td>16.5x16.5x25</td>
         <td></td>
-        <td><a href="https://h01-release.storage.googleapis.com/landing.html">google</a></td>
+        <td>16.5x16.5x25</td>
+        <td>950 skeletons</td>
+        <td><a href="https://neuro.rzg.mpg.de/">mpi-repo</a></td>
+        <td>mouse retina (Helmstaedter 2013): EM cubes, skeletons, segmentations, contact matrices, CNN training data</td>
+    </tr>
+    <tr>
+        <td>L4dense (repository)</td>
+        <td>62x95x93</td>
+        <td>11.24x11.24x28</td>
         <td></td>
+        <td></td>
+        <td>89 somata<br>6,979 axons</td>
+        <td><a href="https://l4dense2019.brain.mpg.de/webdav">mpi-webdav</a></td>
+        <td>mouse barrel cortex L4 (Motta 2019): HDF5 reconstructions + NML training/validation annotations (webKnossos)</td>
+    </tr>
+    <tr>
+        <td>Hemi-brain v1.2</td>
+        <td>~250x250x250</td>
+        <td>8x8x8</td>
+        <td></td>
+        <td>8x8x8</td>
+        <td>~25,000 neurons<br>~20,000,000 synapses</td>
+        <td><a href="https://www.janelia.org/project-team/flyem/hemibrain">janelia</a><br><a href="https://neuprint.janelia.org/">neuprint</a></td>
+        <td>proofread segmentation + synapses at gs://neuroglancer-janelia-flyem-hemibrain</td>
+    </tr>
+    <tr>
+        <td>FAFB Synapses (synful)</td>
+        <td></td>
+        <td>4x4x40</td>
+        <td></td>
+        <td></td>
+        <td>244,000,000 synaptic partners</td>
+        <td><a href="https://zenodo.org/records/4633135">zenodo</a></td>
+        <td>whole-brain synaptic partner predictions of Buhmann <i>et al.</i> 2021</td>
+    </tr>
+    <tr>
+        <td>HVC skeletons</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://github.com/jmrk84/HVC_paper">github</a></td>
+        <td>zebra finch HVC skeleton reconstructions of Kornfeld <i>et al.</i> 2017</td>
+    </tr>
+    <tr>
+        <td>Witvliet connectomes</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>8 connectomes</td>
+        <td><a href="https://zenodo.org/records/5637219">zenodo</a><br><a href="https://nemanode.org/">nemanode</a></td>
+        <td>c. elegans developmental connectivity matrices (Witvliet <i>et al.</i> 2021)</td>
+    </tr>
+    <tr>
+        <td>L1EM adjacency</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>3,016 neurons<br>548,000 synapses</td>
+        <td><a href="https://github.com/brain-networks/larval-drosophila-connectome">github</a></td>
+        <td>larval drosophila connectome matrices from supplementary of Winding <i>et al.</i> 2023</td>
     </tr>
     <tr>
         <td>SNEMI3D (AC3/AC4)</td>
@@ -161,8 +231,8 @@
         <td></td>
         <td></td>
         <td>3 stacks</td>
-        <td><a href="https://bossdb.org/project/microns_pinky2021">bossdb</a><br><a href="https://www.microns-explorer.org/phase1">microns</a></td>
-        <td>mouse visual cortex, MICrONS phase 1</td>
+        <td><a href="https://bossdb.org/project/microns_pinky2021">bossdb</a><br><a href="https://www.microns-explorer.org/phase1">microns</a><br><a href="https://zenodo.org/records/5760218">zenodo</a></td>
+        <td>mouse visual cortex, MICrONS phase 1; zenodo HDF5 with neuron, mitochondria and synapse (PSD) annotations</td>
     </tr>
     <tr>
         <td>Harris2015</td>
