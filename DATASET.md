@@ -658,4 +658,115 @@
 
 ### Human vEM Datasets
 
-@ Xinghui Zhao
+<table>
+    <tr>
+        <th>Name<br><i>for short</i></th>
+        <th>Species</th>
+        <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sample&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th>&nbsp;&nbsp;&nbsp;&nbsp;Microscopy&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th>Size<br><i>μm<sup>3</sup></i></th>
+        <th>Resolution<br><i>nm<sup>3</sup></i></th>
+        <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Number&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th>Link</th>
+        <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reference&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Note&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    </tr>
+    <tr>
+        <td>H01</td>
+        <td>human</td>
+        <td>temporal lobe (epilepsy surgery biopsy)</td>
+        <td>ATUM-mSEM</td>
+        <td>2,000x3,000x175</td>
+        <td>4x4x30</td>
+        <td>50,000 cells<br>133,700,000 synapses<br>104 proofread neurons</td>
+        <td><a href="https://h01-release.storage.googleapis.com/landing.html">google</a></td>
+        <td>Shapson-Coe <i>et al.</i>, <a href="https://github.com/JackieZhai/awesome-em-datasets/blob/master/REFERENCE.md#2024">2024</a></td>
+        <td>petavoxel (~1.4 PB); blood vessel segmentation (BvEM) at <a href="https://bossdb.org/project/wan2024">bossdb</a></td>
+    </tr>
+    <tr>
+        <td>AxonEM-H</td>
+        <td>human</td>
+        <td>temporal cortex</td>
+        <td>ATUM-mSEM</td>
+        <td>30x30x30</td>
+        <td>8x8x30</td>
+        <td>part of 18,000 axons</td>
+        <td><a href="https://axonem.grand-challenge.org/">grand-challenge</a></td>
+        <td>Wei <i>et al.</i>, <a href="https://github.com/JackieZhai/awesome-em-datasets#2021">2021</a></td>
+        <td>subset of H01; axon instance segmentation</td>
+    </tr>
+    <tr>
+        <td>MitoEM-H</td>
+        <td>human</td>
+        <td>frontal cortex layer II</td>
+        <td>ATUM-mSEM</td>
+        <td>30x30x30</td>
+        <td>8x8x30</td>
+        <td>part of ~40,000 mitochondria</td>
+        <td><a href="https://mitoem.grand-challenge.org/">grand-challenge</a></td>
+        <td>Wei <i>et al.</i>, <a href="https://github.com/JackieZhai/awesome-em-datasets#2020">2020</a></td>
+        <td>mitochondria instance segmentation</td>
+    </tr>
+    <tr>
+        <td>Comparative Cortex (human samples)</td>
+        <td>human</td>
+        <td>temporal cortex, layer 2/3 and all layers</td>
+        <td>SBF-SEM</td>
+        <td>175x220x100 (L2/3)<br>1,700x2,100x30 (all layers)</td>
+        <td></td>
+        <td></td>
+        <td><a href="https://webknossos.org/publications">webknossos</a></td>
+        <td>Loomba <i>et al.</i>, <a href="https://github.com/JackieZhai/awesome-em-datasets/blob/master/REFERENCE.md#2022">2022</a></td>
+        <td>neurosurgery biopsies; interneuron-to-interneuron network expansion vs. mouse</td>
+    </tr>
+    <tr>
+        <td>Karlupia2023</td>
+        <td>human</td>
+        <td>cortex biopsies (multicubic millimeter)</td>
+        <td>ATUM-mSEM</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Karlupia <i>et al.</i>, <a href="https://github.com/JackieZhai/awesome-em-datasets/blob/master/REFERENCE.md#2023">2023</a></td>
+        <td>immersion fixation + staining protocol toward connectomic screening of patient tissue</td>
+    </tr>
+    <tr>
+        <td>Hippocampus CA1 (Cajal)</td>
+        <td>human</td>
+        <td>hippocampal CA1 field (autopsy)</td>
+        <td>FIB-SEM</td>
+        <td></td>
+        <td></td>
+        <td>24,752 synapses</td>
+        <td><a href="https://search.kg.ebrains.eu/">ebrains</a></td>
+        <td>Montero-Crespo <i>et al.</i>, <a href="https://github.com/JackieZhai/awesome-em-datasets/blob/master/REFERENCE.md#2020">2020</a></td>
+        <td>DeFelipe lab; 3D synaptic organization across CA1 layers</td>
+    </tr>
+    <tr>
+        <td>Primary Cortex Regions (Cajal)</td>
+        <td>human</td>
+        <td>BA17, BA3b, BA4 (autopsy)</td>
+        <td>FIB-SEM</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://search.kg.ebrains.eu/">ebrains</a></td>
+        <td>Cano-Astorga <i>et al.</i>, <a href="https://github.com/JackieZhai/awesome-em-datasets/blob/master/REFERENCE.md#2024">2024</a></td>
+        <td>DeFelipe lab; synapses in primary visual, somatosensory and motor cortex</td>
+    </tr>
+    <tr>
+        <td>MEC (Plaza-Alonso)</td>
+        <td>human</td>
+        <td>medial entorhinal cortex, all layers (autopsy)</td>
+        <td>FIB-SEM</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://bossdb.org/project/plaza-alonso2024">bossdb</a></td>
+        <td>Plaza-Alonso <i>et al.</i>, <a href="https://github.com/JackieZhai/awesome-em-datasets/blob/master/REFERENCE.md#2025">2025</a></td>
+        <td>DeFelipe lab; laminar synaptic characteristics</td>
+    </tr>
+</table>
+
+(curated with Xinghui Zhao)

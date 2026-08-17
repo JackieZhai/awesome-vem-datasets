@@ -21,6 +21,9 @@
 ### Fish1 Consortium (Lichtman / Engert / Google). 
 [A Connectomic Resource for Neural Cataloguing and Circuit Dissection of the Larval Zebrafish Brain](https://doi.org/10.1101/2025.06.10.658982) <sup>preprint (Fish1)</sup>; [Multiplexed Neuromodulatory-type-annotated Whole-brain EM-reconstruction of Larval Zebrafish](https://doi.org/10.1101/2025.06.12.659365) <sup>companion preprint</sup>
 
+### Plaza-Alonso $\textit{et al}$. 
+[Volume Electron Microscopy Reveals Unique Laminar Synaptic Characteristics in the Human Entorhinal Cortex](https://doi.org/10.7554/eLife.96144) <sup>human MEC</sup>
+
 
 ## 2024
 
@@ -43,6 +46,9 @@
 ### Vishwanathan $\textit{et al}$. 
 [Predicting Modular Functions and Neural Coding of Behavior from a Synaptic Wiring Diagram](https://doi.org/10.1038/s41593-024-01784-3) <sup>zebrafish oculomotor integrator</sup>
 
+### Cano-Astorga $\textit{et al}$. 
+[Volume Electron Microscopy Analysis of Synapses in Primary Regions of the Human Cerebral Cortex](https://doi.org/10.1093/cercor/bhae312) <sup>human BA17 / BA3b / BA4</sup>
+
 
 ## 2023
 
@@ -51,6 +57,9 @@
 
 ### Nguyen $\textit{et al}$. 
 [Structured Cerebellar Connectivity Supports Resilient Pattern Separation](https://doi.org/10.1038/s41586-022-05471-w)
+
+### Karlupia $\textit{et al}$. 
+[Immersion Fixation and Staining of Multicubic Millimeter Volumes for Electron Microscopy-Based Connectomics of Human Brain Biopsies](https://doi.org/10.1016/j.biopsych.2023.01.025)
 
 
 ## 2022
@@ -109,6 +118,9 @@
 
 ### Wanner $\textit{and}$ Friedrich. 
 [Whitening of Odor Representations by the Wiring Diagram of the Olfactory Bulb](https://doi.org/10.1038/s41593-019-0576-z) <sup>zebrafish OB connectome</sup>
+
+### Montero-Crespo $\textit{et al}$. 
+[Three-dimensional Synaptic Organization of the Human Hippocampal CA1 Field](https://doi.org/10.7554/eLife.57013) <sup>human CA1</sup>
 
 
 ## 2019
