@@ -77,6 +77,6 @@
 #### Industry
 
 * [**ariadne.ai**](https://ariadne.ai/), automated connectomic reconstruction services (mapzebrain reconstruction)
-* [**Google Connectomics**](https://research.google/teams/connectomics/), FFN, SOFIMA, H01, Fish1, whole-fly and zebrafish reconstructions
+* [**Google Connectomics**](https://github.com/google-research/connectomics), FFN, SOFIMA, H01, Fish1, whole-fly and zebrafish reconstructions
 * [**scalable minds**](https://scalableminds.com/), webKnossos platform and annotation services
 * [**Zetta AI**](https://zetta.ai/), petascale alignment and segmentation (MICrONS, BANC, mouse loop datasets)
