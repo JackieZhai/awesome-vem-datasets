@@ -1,6 +1,6 @@
 # Related Group
 
-(in the alphabetic order, still updating)
+*Labs and companies that produce vEM datasets and tools, in alphabetical order (still updating).* &nbsp;[&larr; back to the list](README.md)
 
 #### Neuroscience
 
@@ -28,22 +28,27 @@
 * [**Friedrich** Lab](https://www.fmi.ch/friedrich.r), Friedrich Miescher Institute for Biomedical Research
     * zebrafish olfactory bulb SBEM and whitening connectome
 * [**Funke** Lab](https://www.janelia.org/lab/funke-lab), Janelia Research Campus, Howard Hughes Medical Institute
-* [**Jain** Lab](http://virenjain.org/), Connectomics Team, Google Research
-* [**Jefferis** Lab](http://flybrain.mrc-lmb.cam.ac.uk/jefferislabwebsite/), Division of Neurobiology, MRC Laboratory of Molecular Biology
-* [**Jiang** Lab](https://www.haibojianglab.com/), Department of Chemistry, The University of Hong Kong
+    * local shape descriptors, synful synapse detection, neurotransmitter classification from EM
 * [**Hamprecht** Lab](https://hci.iwr.uni-heidelberg.de/people/fhamprec), Heidelberg Collaboratory for Image Processing, Heidelberg University
 * [**Han** Lab](https://people.ucas.ac.cn/~hanhua), Team of Microscale Reconstruction and Intelligent Analysis, Institute of Automation, Chinese Academy of Sciences
 * [**Helmstaedter** Lab](https://brain.mpg.de/helmstaedter), Department of Connectomics, Max Planck Institute for Brain Research
+    * e2006 retina, L4dense, cortical column (Si150L4), mouse&ndash;macaque&ndash;human cortex comparison; RoboEM
 * [**Hess** Lab](https://www.janelia.org/lab/hess-lab), Janelia Research Campus, Howard Hughes Medical Institute
 * [**Hua** Lab](http://www.shipm.cn/jyjz_web/html/jyjz_English/jyjz_or_Faculty/Info/Detail_924.htm), Shanghai Institute of Precision Medicine, Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine
+* [**Jain** Lab](http://virenjain.org/), Connectomics Team, Google Research
+* [**Jefferis** Lab](http://flybrain.mrc-lmb.cam.ac.uk/jefferislabwebsite/), Division of Neurobiology, MRC Laboratory of Molecular Biology
+* [**Jiang** Lab](https://www.haibojianglab.com/), Department of Chemistry, The University of Hong Kong
 * [**Kasthuri** Lab](https://profiles.uchicago.edu/profiles/display/12760213), Department of Neurobiology, University of Chicago
+    * Kasthuri15 (SNEMI3D); primate vs. mouse cortex and synapse development
 * [**Kornfeld** Lab](https://www.bi.mpg.de/kornfeld), Circuits of Birdsong Group, Max Planck Institute for Biological Intelligence
     * zebra finch HVC and area X (J0126) connectomes
 * [**Kreshuk** Lab](https://www.embl.org/groups/kreshuk/), Cell Biology and Biophysics Unit, European Molecular Biology Laboratory
 * [**Lee** Lab](https://www.lee.hms.harvard.edu/), F.M. Kirby Neurobiology Center, Boston Children's Hospital, Harvard Medical School
+    * GridTape TEM: FANC, BANC, posterior parietal cortex
 * [**Lichtman** Lab](https://lichtmanlab.fas.harvard.edu/), Department of Molecular and Cellular Biology, Center for Brain Science, Harvard University
     * (with Google) Human Cerebral Cortex ~ 1 mm<sup>3</sup>, MultiBeam SEM
     * (with Google) Mouse Hippocampus ~ 10 mm<sup>3</sup>, MultiBeam SEM with Ion Beam Milling
+    * (with Hochner Lab) octopus vertical lobe; (with Wei and Yuste Labs) Hydra nerve net
 * [**Morgan** Lab](https://sites.wustl.edu/morganlab/), Department of Ophthalmology and Visual Sciences, Washington University in St. Louis
     * mouse visual thalamus (dLGN) ATUM-SEM
 * [**Murthy** Lab](https://murthylab.princeton.edu/), Princeton Neuroscience Institute
@@ -51,8 +56,10 @@
 * [**Reid** Lab](https://alleninstitute.org/person/r-clay-reid/), Allen Institute
 * [**Saalfeld** Lab](https://www.janelia.org/lab/saalfeld-lab), Janelia Research Campus, Howard Hughes Medical Institute
 * [**Scheffer** Lab](https://www.janelia.org/lab/scheffer-lab), Janelia Research Campus, Howard Hughes Medical Institute
+    * FlyEM connectomes: hemibrain, MANC, optic lobe, male CNS
 * [**Seung** Lab](https://seunglab.org/), Computer Science Department, Princeton Neuroscience Institute; Zetta AI
     * (MICrONS with Allen and Baylor) Mouse Visual Cortex ~ 1 mm<sup>3</sup>, Auto TEM
+    * (with Tank Lab) mouse hippocampal CA3 connectome
 * [**Sun** Lab](http://www.ibp.cas.cn/feilab/members/members_principal_investigator/202108/t20210817_6157589.html), Laboratory of Biological Electron Microscopy and Structural Biology, Institute of Biophysics, Chinese Academy of Sciences
 * [**Tolias** Lab](https://toliaslab.org/), Department of Neuroscience, Baylor College of Medicine
 * [**Wanner** Lab](https://www.psi.ch/en/lnb/people/adrian-andreas-wanner), Structural Neurobiology Group, Paul Scherrer Institute
@@ -71,12 +78,13 @@
 * [**Shavit** Lab](https://www.csail.mit.edu/person/nir-shavit), Computational Connectomics Group, Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology
 * [**Wei** Lab](https://donglaiw.github.io/), Department of Computer Science, Boston College
     * AxonEM, MitoEM, NucMM; PyTorch Connectomics
+    * MitoEM 2.0, BvEM, WASPSYN
 * [**Xiong** Lab](http://staff.ustc.edu.cn/~zwxiong/), Department of Electronic Engineering and Information Science, University of Science and Technology of China
     * TokenUnify, Wafer (MEC) dataset
 
 #### Industry
 
 * [**ariadne.ai**](https://ariadne.ai/), automated connectomic reconstruction services (mapzebrain reconstruction)
-* [**Google Connectomics**](https://github.com/google-research/connectomics), FFN, SOFIMA, H01, Fish1, whole-fly and zebrafish reconstructions
+* [**Google Connectomics**](https://github.com/google-research/connectomics), FFN, SOFIMA, H01, Fish1, whole-fly and zebrafish reconstructions, LICONN and electric-fish segmentations
 * [**scalable minds**](https://scalableminds.com/), webKnossos platform and annotation services
-* [**Zetta AI**](https://zetta.ai/), petascale alignment and segmentation (MICrONS, BANC, mouse loop datasets)
+* [**Zetta AI**](https://zetta.ai/), petascale alignment and segmentation (MICrONS, BANC, mouse CA3, mouse loop datasets)
