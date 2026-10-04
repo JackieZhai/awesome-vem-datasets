@@ -45,7 +45,7 @@ What sets vEM datasets apart is their size. One cubic millimetre at 4&times;4&ti
 | 2022 | mouse&ndash;macaque&ndash;human cortex comparison; automated whole-brain larval zebrafish reconstruction | SBEM |
 | 2023 | complete larval *Drosophila* brain connectome; *Nature* lists vEM among its [technologies to watch](https://doi.org/10.1038/d41586-023-00178-y) | ssTEM |
 | 2024 | FlyWire: first complete adult brain connectome (139,255 neurons); complete male and female fly nerve cords (MANC, FANC); H01 published | ssTEM / FIB-SEM |
-| 2025 | MICrONS published; complete fly optic lobe; whole-body *Platynereis* connectome; Fish1 preprint; *Nature Methods* [Method of the Year](https://doi.org/10.1038/s41592-025-02988-6): EM-based connectomics | autoTEM / FIB-SEM / ssTEM |
+| 2025 | MICrONS published; complete fly optic lobe; whole-body *Platynereis* connectome; Fish1 and Fish-X preprints; *Nature Methods* [Method of the Year](https://doi.org/10.1038/s41592-025-02988-6): EM-based connectomics | autoTEM / FIB-SEM / ssTEM |
 | 2026 | complete adult fly CNS connectomes published (male CNS, BANC); mouse hippocampal CA3 connectome | FIB-SEM / ssTEM |
 
 

@@ -643,7 +643,7 @@ Larval zebrafish is the first vertebrate whose whole brain has been imaged and r
         <td>EM + confocal LM of the same specimen; &gt;40,000 molecularly annotated neurons; CAVE community reconstruction (preprint)</td>
     </tr>
     <tr>
-        <td>Whole Brain (ION-CAS)</td>
+        <td>Fish-X</td>
         <td>zebrafish</td>
         <td>whole brain (larva)</td>
         <td>ssSEM</td>

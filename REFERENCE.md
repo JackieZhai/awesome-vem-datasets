@@ -77,7 +77,7 @@ Companion papers in the same <i>Nature</i> package ([collection](https://www.nat
 [A Connectomic Resource for Neural Cataloguing and Circuit Dissection of the Larval Zebrafish Brain](https://doi.org/10.1101/2025.06.10.658982) <sup>preprint (Fish1)</sup>
 
 ### ION-CAS.
-[Multiplexed Neuromodulatory-type-annotated Whole-brain EM-reconstruction of Larval Zebrafish](https://doi.org/10.1101/2025.06.12.659365) <sup>preprint; Institute of Neuroscience, Chinese Academy of Sciences</sup>
+[Multiplexed Neuromodulatory-type-annotated Whole-brain EM-reconstruction of Larval Zebrafish](https://doi.org/10.1101/2025.06.12.659365) <sup>preprint (Fish-X); Institute of Neuroscience, Chinese Academy of Sciences</sup>
 
 ### Boulanger-Weill *et al.*
 [Correlative Light and Electron Microscopy Reveals the Fine Circuit Structure underlying Evidence Accumulation in Larval Zebrafish](https://doi.org/10.1101/2025.03.14.643363) <sup>preprint</sup>

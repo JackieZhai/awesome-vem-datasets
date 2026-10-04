@@ -43,7 +43,7 @@ A curated list of **volume electron microscopy (vEM)** datasets, from benchmark 
 | 2025 | Mouse, visual cortex (~1 mm<sup>3</sup>) | [MICrONS](DATASET.md#mouse-and-other-rodents) | autoTEM | ~200,000 cells, 524 M synapses | [microns-explorer](https://www.microns-explorer.org/cortical-mm3) |
 | 2025 | *Platynereis* larva, whole body | [Platynereis](DATASET.md#other-invertebrates-and-chordates) | ssTEM | &gt;9,000 cells | [catmaid](https://catmaid.jekelylab.ex.ac.uk) |
 | 2025 | Zebrafish larva, brain + spinal cord | [Fish1](DATASET.md#fish) | &ndash; | ~187,000 cells, ~30 M synapses (preprint) | [fish1](https://fish1-release.storage.googleapis.com/index.html) |
-| 2025 | Zebrafish larva, whole brain | [Whole Brain (ION-CAS)](DATASET.md#fish) | ssSEM | ~177,000 cells, ~25 M synapses (preprint) | &ndash; |
+| 2025 | Zebrafish larva, whole brain | [Fish-X](DATASET.md#fish) | ssSEM | ~177,000 cells, ~25 M synapses (preprint) | &ndash; |
 | 2025 | *Drosophila*, adult optic lobe | [Optic Lobe](DATASET.md#insects) | FIB-SEM | ~53,000 neurons | [neuprint](https://neuprint.janelia.org/) |
 | 2024 | *Drosophila*, adult female brain | [FAFB / FlyWire](DATASET.md#insects) | ssTEM (TEMCA2) | 139,255 neurons, 54.5 M synapses | [codex](https://codex.flywire.ai/) |
 | 2024 | *Drosophila*, adult male VNC | [MANC](DATASET.md#insects) | FIB-SEM | ~23,000 neurons | [neuprint](https://neuprint.janelia.org/) |
